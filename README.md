@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm youssef Qatry</h1>
 <h3 align="center">Cs student 2th level ,passionate about problem solving, Junior software engineer , backend developer (Node.js )</h3>
 
-- 🌱 I’m currently **Learning competitive programming 2 with C++ language, solve problems, working on web projects**
+- 🌱 I’m currently **Learning competitive programming with C++ language, solve problems, working on web projects**
 
 - 💬 Ask me about **Node.js, Express, MongoDB**
 
