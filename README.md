@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm youssef Qatry</h1>
-<h3 align="center">Cs student 4th level, passionate about problem-solving, Junior software engineer, backend developer (Node.js )</h3>
+<h3 align="center">Cs graduate, Software engineer, backend developer (NodeJS)</h3>
 
 - 🌱 I’m currently **Learning competitive programming with C++ language, solve problems, working on web projects**
 
