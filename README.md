@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm youssef Qatry</h1>
 <h3 align="center">Cs graduate, Software engineer, backend developer (NodeJS)</h3>
 
-- 🌱 I’m currently **Learning software engineering, solve problems, working on backend projects**
+- 🌱 I’m currently **Learning software engineering, solving problems, and working on backend projects**
 
 - 💬 Ask me about **Node.js, Express, MongoDB**
 
 - 📫 How to reach me **https://www.linkedin.com/in/youssef-qatry/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o_HMoiovGmEHyaerl22NBP_AOsRPnJi5/view?usp=sharing](https://drive.google.com/file/d/1o_HMoiovGmEHyaerl22NBP_AOsRPnJi5/view?usp=sharing)
+- 📄 Know about my experiences **https://drive.google.com/file/d/1jznf6gKuTnCllhBdMjXPlvEIj6s9a-xb/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
